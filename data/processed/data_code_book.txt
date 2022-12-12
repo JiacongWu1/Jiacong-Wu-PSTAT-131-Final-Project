@@ -1,3 +1,6 @@
+The data is from Kaggle https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
+Columns:
 gender: "Male", "Female" or "Other"
 age: age of the patient
 hypertension: 0 if the patient doesn't have hypertension, 1 if the patient has hypertension
